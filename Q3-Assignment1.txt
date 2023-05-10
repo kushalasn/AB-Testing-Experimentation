@@ -1,0 +1,64 @@
+Q3.
+
+A-1)A-1.The impact of stay-at-home orders due to COVID-19 on economic activity in a state can vary greatly depending on various factors, 
+including the specific industries and businesses affected by the orders, the resources and support available to affected workers and businesses, 
+and the overall state of the economy prior to the pandemic. In general, stay-at-home orders can result in decreased economic activity, 
+as they often limit the ability of individuals and businesses to operate as usual and result in job losses, reduced consumer spending, 
+and other economic challenges.
+ However, the magnitude of these impacts will depend on the specific circumstances in each state and the effectiveness of government support and stimulus measures.
+
+
+
+
+
+
+
+
+
+
+A-2)The outcome variable of interest would be the level of economic activity in a state before and after the implementation of stay-at-home orders due to COVID-19. The treatment would be the implementation of the stay-at-home order to determine its effect on state's economy.
+
+There are several sources of selection or omitted-variable bias that could affect the validity of a causal inference from observational data:
+
+Internal problem in treatment selection: Some states may have implemented stay-at-home orders earlier or later than others based on factors that are also associated with economic activity, such as the level of COVID-19 infections.
+
+Nonrandom treatment assignment: Some states may have more strict enforcement of stay-at-home orders than others, which could affect the level of economic activity.
+
+Confounding variables: Other factors that vary across states, such as the local economy, state policies, and consumer behavior, could affect both the implementation of stay-at-home orders and the level of economic activity.
+
+Self-selection bias: Some individuals and businesses may have chosen to stay at home or close down even before the implementation of stay-at-home orders, which could affect the level of economic activity.
+
+These biases suggest that direct comparisons of outcomes from observational data would not yield a good measure of the causal effect of stay-at-home orders on economic activity. 
+"""To address these biases, alternative approaches such as natural experiments or randomized controlled trials may be needed to provide a more accurate estimate of the causal effect."""->need to look at it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B-1. The outcome variable of interest would be the number of clicks on a website.
+The treatment would be the presence or absence of sponsored search advertising on Google.
+In other words, the variable of interest would be the difference in number of clicks between the control group
+(websites without sponsored search advertising) and the treatment group (websites with sponsored search advertising). 
+The treatment can be considered as a binary variable, taking on the value of 1 for websites with sponsored search advertising and 0 for websites without.
+
+
+B-2) The outcome variable of interest will be presence or absence of sponsored ads on google.The variable of interest
+will be difference in number of clicks between 	the control group(websites with no sponsored search ads) and the 
+treatment groups(websites with sponsored ads).
+
+Selection-omitted variable bias-> sponsored search ads might be targeted to certain websites
+
+websites that choose to invest in sponsored search ads on google may have different characteristics such as large budget,attractive
+products ,different audience.
+
+content of website also matters, popularity of ads and website might change due to various factors
+ 
